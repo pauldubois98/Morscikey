@@ -1,2 +1,1 @@
-# Morscikey
-A morse keyboard
+#MorscikeyA morse keyboard: you need to type the morse code of the letters for them to appear on the computer.Note that this isn't very effective, and is more a curiosity then a real life app.![Capture d'écran](/PhotosVideos/V3FaceBranche.jpg)
